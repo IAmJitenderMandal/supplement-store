@@ -26,6 +26,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     margin-bottom: 2rem;
+    border-bottom: 1px solid rgb(214, 214, 214);
 }
 
 .product {
@@ -69,6 +70,7 @@
     width: 100%;
     display: flex;
     justify-content: space-evenly;
+    margin-bottom: 2rem;
 }
 
 .shop-option:link, .link-buyNow:link,
